@@ -1,0 +1,8 @@
+.gitignore
+.gitattributes
+*.js
+*.js.map
+*.css
+*.css.map
+node_modules/
+dist/

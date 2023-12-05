@@ -1,0 +1,5 @@
+* text=auto
+*.js text
+*.js.map text
+*.css text
+*.css.map text
